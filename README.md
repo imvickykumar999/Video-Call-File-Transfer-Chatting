@@ -3,7 +3,7 @@
 
 ### `You can chat, video call, file or folder transfer from one laptop to another when both connected with same Hotspot.`
 
-![ss](https://github.com/imvickykumar999/Video-Call-File-Transfer-Chatting/blob/main/screenshot.jpg?raw=true)
+![ss](https://github.com/imvickykumar999/Video-Call-File-Transfer-Chatting/blob/main/screenshots/screenshot.jpg?raw=true)
 
 # Server is receiver and Client is sender.
 # Server should run first, then Client.
