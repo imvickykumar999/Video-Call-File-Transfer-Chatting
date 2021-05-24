@@ -7,7 +7,7 @@ def vserver():
 
     host_name = socket.gethostname()
     HOST = socket.gethostbyname(host_name)
-    PORT = 5000
+    PORT = 5002
 
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     s.bind((HOST, PORT))
