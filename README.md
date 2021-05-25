@@ -7,8 +7,33 @@
 
 ![ss](https://github.com/imvickykumar999/Video-Call-File-Transfer-Chatting/blob/main/screenshots/screenshot.jpg?raw=true)
 
-# Server is receiver and Client is sender.
-# Server should run first, then Client.
+## Server is receiver and Client is sender.
+## Server should run first, then Client.
 
 ## `pip install os`
 ## `python runme.py`
+
+# After cloning repository, run below commands in cmd.
+
+## To receive file or folder...
+
+    cd files
+    python fileserver.py
+
+## To send file or folder...
+
+    cd files
+    python fileclient.py
+    
+-----------------------------------------
+
+## For Video call...
+
+    cd video
+    python videoserver.py
+    
+## To Receive Video Call...
+
+    cd video
+    python videoclient.py
+    
