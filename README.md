@@ -13,14 +13,14 @@
 ## `pip install os`
 ## `python runme.py`
 
-# After cloning repository, run below commands in cmd.
+# After cloning repository, run below commands in every new cmd window in 2 different Laptops.
 
-## To receive file or folder...
+## To Receive file or Folder...
 
     cd files
     python fileserver.py
 
-## To send file or folder...
+## To Send file or Folder...
 
     cd files
     python fileclient.py
@@ -36,4 +36,16 @@
 
     cd video
     python videoclient.py
+    
+-----------------------------------------
+
+## For Start Chatting...
+
+    cd chat
+    python chatserver.py
+    
+## To Receive Chat...
+
+    cd video
+    python chatclient.py
     
