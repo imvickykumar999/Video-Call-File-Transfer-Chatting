@@ -20,6 +20,7 @@ def fserver():
     SEPARATOR = "<SEPARATOR>"
 
     s = socket.socket()
+    # print(SERVER_HOST)
     s.bind((SERVER_HOST, SERVER_PORT))
     s.listen(5)
     client_socket, address = s.accept()

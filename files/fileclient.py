@@ -35,7 +35,7 @@ def fclient(hostip = '192.168.1.102', file = '/'):
     if __name__ == "__main__":
 
         # hostip = input('\nEnter Host IP : ')
-        print("\n...to send multiple files, keep all in folder, create it's zip file")
+        # print("\n...to send multiple files, keep all in folder, create it's zip file")
         # file = input("\nPaste ...file, folder, or zipped file's path : ")
 
         if os.path.isdir(file):
